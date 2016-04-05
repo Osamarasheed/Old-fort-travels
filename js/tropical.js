@@ -12,8 +12,12 @@
     $(window).on("load", function() {
 
         var headerHeight = $(".site-branding .container").outerHeight();
-        $(".main-menu .sub-menu,.main-menu  .mega-menu").animate({
-            paddingTop: headerHeight
+        $(".main-menu  .mega-menu").animate({
+            paddingTop: 30
+        });
+        $(".main-menu .sub-menu").animate({
+            paddingTop: 30,
+            marginTop: 0
         });
 
         $(".main-menu li,.main-menu li .sub-menu").on("hover", function () {
@@ -60,8 +64,9 @@
         // Home page main slider and Tour by destination
         $('.main-slider, .tour-by-destination').slick({
             dots: false,
+            autoplay: true,
             infinite: true,
-            speed: 500,
+            speed: 1000,
             fade: true,
             cssEase: 'linear',
             adaptiveHeight: true,
