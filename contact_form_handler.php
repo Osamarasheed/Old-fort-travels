@@ -11,7 +11,7 @@ if(isset($_POST['email'])):
     $email = $_POST['email'];
     $number = $_POST['number'];
     $message = $_POST['message'];
-    $address = "info@themesinspire.com";
+    $address = "info@oldforttravels.com";
 
     if(get_magic_quotes_gpc()) {
         $message = stripslashes($message);
