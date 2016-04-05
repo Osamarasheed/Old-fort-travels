@@ -16,7 +16,8 @@
             paddingTop: 30
         });
         $(".main-menu .sub-menu").animate({
-            paddingTop: 30
+            paddingTop: 30,
+            marginTop: 0
         });
 
         $(".main-menu li,.main-menu li .sub-menu").on("hover", function () {
