@@ -195,7 +195,7 @@
                                     </header>
                                     <div class="tour-contents clearfix">
                                         <figure class="tour-feature-img">
-                                            <a href="chitral.html"><img src="images/gilgit1.jpg" alt="Image"/></a>
+                                            <a href="gilgit.html"><img src="images/gilgit1.jpg" alt="Image"/></a>
                                         </figure>
                                         <h5 class="entry-title p-name"><a href="gilgit.html">Visiting the Amazing Gilgit Valley</a> </h5>
                                         <a class="more-details u-url" href="gilgit.html">See tour details <i class="fa fa-angle-double-right"></i></a>

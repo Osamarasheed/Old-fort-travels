@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="images/fevicon.png" />
 
-    <title>Tropical</title>
+    <title>OLD FORT TRAVELS</title>
 
     <!-- Font Styles -->
     <link href='http://fonts.googleapis.com/css?family=Fira+Sans:400,500,700,400italic' rel='stylesheet' type='text/css'>
@@ -17,7 +18,7 @@
     <link rel="stylesheet" href="css/owl.carousel.css" type="text/css" media="all">
     <link rel="stylesheet" href="css/select2.min.css" type="text/css" media="all">
     <link rel="stylesheet" href="css/slick.css" type="text/css" media="all">
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" media="all">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" media="all">
     <link rel="stylesheet" href="css/datepicker.css" type="text/css" media="all">
     <link rel="stylesheet" href="css/fullcalendar.css" type="text/css" media="all">
     <link rel="stylesheet" href="css/slicknav.css" type="text/css" media="all">
@@ -38,116 +39,15 @@
     <header id="masthead" class="site-header" role="banner">
         <div class="site-header-head clearfix">
             <div class="container header-user h-card">
-                <div class="header-user-name pull-left">
-                    <span class="p-name"> User Name </span>
-                    <i class="fa fa-user"></i>
-                </div>
-                <div class="header-tour-package pull-right">
-                    <span>TOUR PACKAGE</span>
-                    <i class="fa fa-bars"></i>
-                    <section class="header-tour-listing clearfix">
-                        <h1 class="hide">Title</h1>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-                        <article class="header-tour clearfix">
-                            <figure class="feature-img">
-                                <img src="images/header-tour-img.jpg" alt="Header Image"/>
-                            </figure>
-                            <div class="contents">
-                                <h6 class="entry-title">Summer Frenzy Lake</h6>
-                                <span class="days pull-left"><i class="fa fa-clock-o"></i> 5 days</span>
-                                <span class="t-btn btn-black pull-right">$499</span>
-                            </div>
-                        </article>
-
-                    </section>
-                </div>
+                
                 <div class="header-user-tel pull-right">
                     <i class="fa fa-mobile-phone fa-lg"></i>
-                    <span class="tel">+012 345 6789</span>
+                    <span class="tel">+92 324 5500015 &nbsp; +92 346 3231227</span>
                 </div>
 
                 <div class="header-user-email pull-right">
                     <i class="fa fa-envelope-o"></i>
-                    <a class="u-url" href="mailto:info@example.com" >INFO@EXAMPLE.COM</a>
+                    <a class="u-url" href="mailto:info@oldforttravels.com" >INFO@OLDFORTTRAVELS.COM</a>
                 </div>
             </div>
         </div>
@@ -155,101 +55,53 @@
             <div class="container">
                 <h1 class="site-title pull-left">
                     <a href="index.html" rel="home">
-                        <img src="images/logo.png" alt="logo"/>
+                        <img src="images/logo2.png" alt="OLD FORT TRAVEL LOGO"/>
                     </a>
                 </h1>
-                <div class="header-search pull-right clearfix">
-                    <i class="fa fa-search"></i>
-                    <div class="search clearfix">
-                        <form method="get"  class="search-form" action="#">
-                            <div>
-                                <input type="text" placeholder="Search" name="s" class="search-text" >
-                                <input type="submit" class="search-submit" value="" >
-                            </div>
-                        </form>
-                    </div>
-                </div>
+                
                 <nav class="main-nav pull-right" role="navigation">
                     <div class="menu-primary-menu-container">
                         <ul id="menu-primary-menu" class="main-menu">
                             <li>
                                 <a href="index.html">Home</a>
-                                <ul class="sub-menu">
-                                    <li><a href="home-var-two.html">Home two</a></li>
-                                    <li><a href="home-var-three.html">Home three</a></li>
-                                </ul>
                             </li>
                             <li class="mega-menu-nav">
-                                <a href="where-we-go.html">Where we go</a>
+                                <a href="">Where to go</a>
                                 <ul class="mega-menu clearfix">
                                     <li class="pull-left wrap clearfix">
-                                        <img class="pull-left menu-img" src="images/mega-menu-img.jpg" alt="Mega Menu Image"/>
+                                        <img class="pull-left menu-img" src="images/chitral.jpg" alt="Mega Menu Image"/>
                                         <ul class="mega-sub-menu">
-                                            <li>EUROPE</li>
-                                            <li><a href="european-discovery.html">European Discovery</a></li>
-                                            <li><a href="beach-holidays.html">Beach Holidays</a></li>
-                                            <li><a href="european-highlights.html">European Highlights</a></li>
-                                            <li><a href="all-tours.html">SEE MORE</a></li>
+                                            <li><a href="chitral.html">CHITRAL</a></li>
+                                            <li><a href="nagar.html">Naghar fort</a></li>
+                                            <li><a href="kalash.html">Kalash Valley</a></li>
+                                            <li><a href="garamchashma.html">Garam Chashma</a></li>
+                                            <li><a href="chitral.html">SEE MORE</a></li>
                                         </ul>
                                     </li>
                                     <li class="pull-left wrap clearfix">
-                                        <img class="pull-left menu-img" src="images/mega-menu-img.jpg" alt="Mega Menu Image"/>
+                                        <img class="pull-left menu-img" src="images/gilgit.jpg" alt="Mega Menu Image"/>
                                         <ul class="mega-sub-menu">
-                                            <li>ASIA</li>
-                                            <li><a href="tropical-island.html">Tropical Island</a></li>
-                                            <li><a href="resorts.html">Resorts</a></li>
-                                            <li><a href="single-where-we-go.html">Asian Adventure</a></li>
-                                            <li><a href="all-tours.html">SEE MORE</a></li>
+                                            <li><a href="gilgit.html">GILGIT</a></li>
+                                            <li><a href="gilgit.html">Naltar Valley</a></li>
+                                            <li><a href="gilgit.html">Hunza</a></li>
+                                            <li><a href="gilgit-where-we-go.html">Sher Qilla</a></li>
+                                            <li><a href="gilgit.html">SEE MORE</a></li>
                                         </ul>
                                     </li>
                                     <li class="pull-left wrap clearfix">
-                                        <img class="pull-left menu-img" src="images/mega-menu-img.jpg" alt="Mega Menu Image"/>
+                                        <img class="pull-left menu-img" src="images/galiat.jpg" alt="Mega Menu Image"/>
                                         <ul class="mega-sub-menu">
-                                            <li>AFRICA</li>
-                                            <li><a href="western-africa.html">Western Africa</a></li>
-                                            <li><a href="south-africa.html">South Africa</a></li>
-                                            <li><a href="island-hopper-east.html">Island Hopper East</a></li>
-                                            <li><a href="all-tours.html">SEE MORE</a></li>
+                                            <li><a href="galiat.html">GALIAT</a></li>
+                                            <li><a href="galiat.html">Nathia Gali</a></li>
+                                            <li><a href="galiat.html">Kala Bagh</a></li>
+                                            <li><a href="galiat.html">Abottabad</a></li>
+                                            <li><a href="galiat.html">SEE MORE</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </li>
-                            <li>
-                                <a href="#">Tours</a>
-                                <ul class="sub-menu">
-                                    <li><a href="beach-holidays.html">beach holidays</a></li>
-                                    <li><a href="city-breaks.html">City breaks</a></li>
-                                    <li><a href="tropical-island.html">Tropical Island</a></li>
-                                    <li><a href="resorts.html">Resorts</a></li>
-                                    <li><a href="single-where-we-go.html">Asian Adventure</a></li>
-                                </ul>
-                            </li>
+                            
                             <li><a href="special-offers.html">Special Offers</a></li>
-                            <li>
-                                <a href="#">Pages</a>
-                                <ul class="sub-menu">
-                                    <li> <a href="booking.html">Booking</a> </li>
-                                    <li><a href="checkout.html">Check Out</a></li>
-                                    <li><a href="single-where-we-go.html">Where we go Single</a></li>
-                                    <li><a href="shortcodes.html">Shortcodes</a></li>
-                                    <li><a href="404.html">404 Page</a></li>
-                                    <li>
-                                        <a href="#">Second Level Menu</a>
-                                        <ul class="inner-menu">
-                                            <li><a href="#">Third Level Menu</a></li>
-                                            <li><a href="#">Third Level Menu</a></li>
-                                            <li><a href="#">Third Level Menu</a></li>
-                                            <li><a href="#">Third Level Menu</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="blog.html">Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="single.html">Single</a></li>
-                                </ul>
-                            </li>
                             <li> <a href="contact.html">Contact</a> </li>
                         </ul>
                     </div>
@@ -261,14 +113,14 @@
         <div id="tropical-banner" class=" text-center clearfix">
             <img src=" images/banner.jpg" alt="banner"/>
             <div class="container banner-contents clearfix">
-                <h2 class="template-title p-name"><strong>Western Africa</strong></h2>
+                <h2 class="template-title p-name"><strong>Chitral</strong></h2>
             </div>
             <div class="breadcrumb-wrapper clearfix">
                 <div class="container">
                     <ol class="breadcrumb">
                         <li><a href="index.html" >Home</a></li>
-                        <li><a href="where-we-go.html" >Where We Go</a></li>
-                        <li class="active">Western Africa</li>
+                        <li><a href="special-offers.html" >Where To Go</a></li>
+                        <li class="active">Chitral</li>
                     </ol>
                 </div>
             </div>
@@ -281,31 +133,29 @@
                 <div class="row">
                     <div class="col-lg-9 col-sm-8">
                         <header class="entry-header animatedParent clearfix">
-                            <h3 class="pull-left tour-single-title animated growIn slower">Western Africa</h3>
-                            <span class="tour-price-single t-btn btn-red pull-right animated growIn slower">&#36;1599.00</span>
+                            <h3 class="pull-left tour-single-title animated growIn slower">Chitral</h3>
                         </header>
                         <article class="tour-post-single clearfix">
                             <div class="tour-single-slider animatedParent clearfix">
                                 <div class="slier tour-single-slider-for animated fadeInUpShort">
-                                    <div class="item"><img src="images/where-we-go-single-img-2.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/where-we-go-single-img-1.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/where-we-go-single-img-3.jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/chitral1.jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/chitral2.jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/chitral3.jpg" alt="Tour Single"/></div>
                                 </div>
                                 <div class="slider tour-single-slider-nav animated fadeInUpShort">
-                                    <div class="item slick-active"><img src="images/where-we-go-single-img-2.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/where-we-go-single-img-1.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/where-we-go-single-img-3.jpg" alt="Tour Single"/></div>
+                                    <div class="item slick-active"><img src="images/chitral1(s).jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/chitral2(s).jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/chitral3(s).jpg" alt="Tour Single"/></div>
                                 </div>
                             </div>
                             <div class="tour-single-contents animatedParent clearfix">
-                                <div class="tour-post-meta pull-right animated fadeInUpShort clearfix">
-                                    <span><i class="fa fa-map-marker"></i><strong>Destination : &nbsp;</strong>Africa</span>
-                                    <span><i class="fa fa-clock-o"></i><strong>Duration : &nbsp;</strong>5 days</span>
-                                    <span><i class="fa fa-tags"></i><strong>Price : &nbsp;</strong>&#36;1547</span>
-                                </div>
-                                <p> Maecenas faucibus mollis interdum. Nulla vitae elit libero, a petra augue. Integer posua ereta ante venenatis dapibus posu vre velit aliquet. Aenean eu leo quam. Pellentesque ornadsgxare semetrt mo  lacinia quam venenatis vestibulum. Nulla vitae elit liberero, avelitu pharetra aug ue. Etiamums porta sem malesuada magna mollis euismod.</p>
-                                <p> Maecenas faucibus mollis interdum. Nulla vitae elit libero, a petra augue. Integer posua ereta ante venenatis dapibus posu vre velit aliquet. Aenean eu leo quam. Pellentesque ornadsgxare semetrt mo  lacinia quam venenatis vestibulum. Nulla vitae elit liberero, avelitu pharetra aug ue. Etiamums porta sem malesuada magna mollis euismod.</p>
-                                <p> Maecenas faucibus mollis interdum. Nulla vitae elit libero, a petra augue. Integer posua ereta ante venenatis dapibus posu vre velit aliquet. Aenean eu leo quam. Pellentesque ornadsgxare semetrt mo  lacinia quam venenatis vestibulum. Nulla vitae elit liberero, avelitu pharetra aug ue. Etiamums porta sem malesuada magna mollis euismod.</p>
+                                
+                                <p> Historians, anthropologists, authors, travelogue writers and others have described Chitral as the most romantic, captivating and enchanting place tugged into the mighty Hindukush mountains in the extreme north-west of Pakistan with the indigenous Khowar-speaking people proud of their centuries-old unique culture and traditions.</p>
+                                <p> Chitral is bordered in the east with Gilgit-Baltistan, south-east Swat valley, north and north-east by China and the Wakhan corridor of Afghanistan, and in the west by the Nuristan and Kunar provinces of Afghanistan. In the south of Chitral is situated the Upper Dir district of Khyber Pakhtunkha province.
+When one enters Chitral through any of the two main routes – Lowari Pass or Lowari Tunnel and Shandur Pass – the landscape inspires the visitor. Chitral is gifted with extremely mysterious and steep harsh mountains, lush green valleys, beautiful meadows and huge glaciers. Chitral is divided into small valleys numbering about 35. The most important and worth seeing of these sub-valleys are the Kalash valleys, Garam Chashma, Shishi Koh, Mastuj, Laspur, Yarkhun, Tor Khow and Mor Khow. The highest peak in this range of the Hindukush is Terichmir, which lies at a height of 25,263 feet, just 36 miles away in the north-east of Chitral town. It is also called the palace of fairies. No mountain in the region is less than 4,000 feet and over 40 peaks have an altitude of 20,000 feet.</p>
+                                    <p>The weather of Chitral is extremely harsh and cold in the winter and pleasant in the summer. The best season to visit the valley is from May to September. Temperatures in summer range between 25 and 40 degrees Celsius while in the winters it plunge below minus. </p>
+                                    <p> There are a number of famous places in Chitral such as Drosh, Ayun, Madaklasht, Arandu, Birir, Rumbur and Bumburate; Garam Chashma, Reshun, Booni. The Kalash valleys are the repository of one of the unique cultures and mysterious histories of the world. This culture is certainly the residuary of the pre-historic age.
+For the last about two decades, Shandur, the world’s highest polo ground, has become famous all around the world for the annual polo festival. Shandur is located on the mountainous area between Chitral and Gilgit-Baltistan and its is about 100 kilometres from Chitral town and 40 kilometres from Mastuj in Upper Chitral.</p>
                                 <footer class="tour-contents-footer clearfix">
                                     <a class="t-btn btn-red pull-right" href="#" data-toggle="modal" data-target="#booking-popup">Booking Now</a>
                                     <a class="t-btn btn-black-border pull-right" href="#" data-toggle="modal" data-target="#ask-q-popup">Ask Question</a>
@@ -630,214 +480,163 @@
                                         <a href="#3" role="tab" id="3-tab" data-toggle="tab" aria-controls="3">DAY-3</a>
                                         <span></span>
                                     </li>
+                                    <li role="presentation">
+                                        <a href="#4" role="tab" id="3-tab" data-toggle="tab" aria-controls="3">DAY-4</a>
+                                        <span></span>
+                                    </li>
+                                    <li role="presentation">
+                                        <a href="#5" role="tab" id="3-tab" data-toggle="tab" aria-controls="3">DAY-5</a>
+                                        <span></span>
+                                    </li>
+                                    <li role="presentation">
+                                        <a href="#6" role="tab" id="3-tab" data-toggle="tab" aria-controls="3">DAY-6</a>
+                                        <span></span>
+                                    </li>
+                                    <li role="presentation">
+                                        <a href="#7" role="tab" id="3-tab" data-toggle="tab" aria-controls="3">DAY-7</a>
+                                        <span></span>
+                                    </li>
                                 </ul>
                                 <div class="tab-content animated fadeInDownShort">
                                     <div role="tabpanel" class="tab-pane fade clearfix in active" id="1" aria-labelledby="1-tab">
-                                        <img class="tab-img alignleft" src="images/tab-img.jpg" alt="one">
+                                        <img class="tab-img alignleft" src="images/islo.jpg" alt="one">
                                         <div class="contents">
-                                            <h5 class="p-title">Tropical paradise one</h5>
+                                            <h5 class="p-title">Departure</h5>
                                             <p>
-                                                Maecenas faucibus mollis interdum. Nulla vitaeryr
-                                                elit libero, a pharetra augue. Integer posuere erero  ante  leo venenatis dapibus posuere velit aliquete Aenean eu leo quam. Pellentesque ornare semirat lacinia quam venenatis vestibulum.
+                                                Departure from Islamabad and arival at Nagar fort Chitral, enjoying the beautiful views from Dir and Lawarai during the journey.
                                             </p>
                                         </div>
                                     </div>
                                     <div role="tabpanel" class="tab-pane fade clearfix" id="2" aria-labelledby="2-tab">
-                                        <img class="tab-img alignleft" src="images/tab-img.jpg" alt="one">
+                                        <img class="tab-img alignleft" src="images/chitral(s).jpg" alt="one">
                                         <div class="contents">
-                                            <h5 class="p-title">Tropical paradise two</h5>
+                                            <h5 class="p-title">Exploring Nagar Fort</h5>
                                             <p>
-                                                Maecenas faucibus mollis interdum. Nulla vitaeryr
-                                                elit libero, a pharetra augue. Integer posuere erero  ante  leo venenatis dapibus posuere velit aliquete Aenean eu leo quam. Pellentesque ornare semirat lacinia quam venenatis vestibulum.
+                                                Exploring Nagar Fort and departure for Kalash Valley, Bumburait.
                                             </p>
                                         </div>
                                     </div>
                                     <div role="tabpanel" class="tab-pane fade clearfix" id="3" aria-labelledby="3-tab">
-                                        <img class="tab-img alignleft" src="images/tab-img.jpg" alt="one">
+                                        <img class="tab-img alignleft" src="images/kalash(s).jpg" alt="one">
                                         <div class="contents">
-                                            <h5 class="p-title">Tropical paradise three</h5>
+                                            <h5 class="p-title">Exploring Kalash Valley</h5>
                                             <p>
-                                                Maecenas faucibus mollis interdum. Nulla vitaeryr
-                                                elit libero, a pharetra augue. Integer posuere erero  ante  leo venenatis dapibus posuere velit aliquete Aenean eu leo quam. Pellentesque ornare semirat lacinia quam venenatis vestibulum.
+                                                Exploring Bumburait and staying the night at the beautiful Valley enjoying bonfire.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div role="tabpanel" class="tab-pane fade clearfix" id="4" aria-labelledby="4-tab">
+                                        <img class="tab-img alignleft" src="images/kalash2(s).jpg" alt="one">
+                                        <div class="contents">
+                                            <h5 class="p-title">Departure for Chitral</h5>
+                                            <p>
+                                                Departure from Kalash Valley and sightseeing in the main Chitral town and the popular Chitral Bazaar.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div role="tabpanel" class="tab-pane fade clearfix" id="5" aria-labelledby="5-tab">
+                                        <img class="tab-img alignleft" src="images/garam1(s).jpg" alt="one">
+                                        <div class="contents">
+                                            <h5 class="p-title">Garam Chashma</h5>
+                                            <p>
+                                                Departure for Garam Chashma(hot spring), and enjoying a day at the fountain of life.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div role="tabpanel" class="tab-pane fade clearfix" id="6" aria-labelledby="6-tab">
+                                        <img class="tab-img alignleft" src="images/nagar(s).jpg" alt="one">
+                                        <div class="contents">
+                                            <h5 class="p-title">Return to Nagar Fort</h5>
+                                            <p>
+                                                We return to Nagar fort where we rest and have a free day. In the Evening we have a farwell dinner alongside a bonfire and musical function.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div role="tabpanel" class="tab-pane fade clearfix" id="7" aria-labelledby="7-tab">
+                                        <img class="tab-img alignleft" src="images/islo.jpg" alt="one">
+                                        <div class="contents">
+                                            <h5 class="p-title">Derparture for Islamabad</h5>
+                                            <p>
+                                                After an early morning breakfast we pack our bags for our return to Islamabad.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="tour-single-rates animatedParent clearfix">
-                                <div class="accommodation animated fadeInUpShort clearfix">
-                                    <ul class="clearfix">
-                                        <li><strong>Economy Accomodation</strong> <span class="circle-icon"></span></li>
-                                        <li><strong>type</strong><span class="circle-icon"></span></li>
-                                        <li><strong>Jan-May</strong><span class="circle-icon"></span></li>
-                                        <li><strong>June-dec</strong></li>
-                                    </ul>
-                                    <ul class="clearfix">
-                                        <li>Thai Island hopper Resort</li>
-                                        <li>Single</li>
-                                        <li>&#36;550</li>
-                                        <li>&#36;450</li>
-                                    </ul>
-                                    <ul class="clearfix">
-                                        <li>Summer lake Family Hotel</li>
-                                        <li>Double</li>
-                                        <li>&#36;449</li>
-                                        <li>&#36;399</li>
-                                    </ul>
-                                </div>
-                                <div class="accommodation animated fadeInDownShort clearfix">
-                                    <ul class="clearfix">
-                                        <li><strong>Economy Accomodation</strong> <span class="circle-icon"></span></li>
-                                        <li><strong>type</strong><span class="circle-icon"></span></li>
-                                        <li><strong>Jan-May</strong><span class="circle-icon"></span></li>
-                                        <li><strong>June-dec</strong></li>
-                                    </ul>
-                                    <ul class="clearfix">
-                                        <li>Thai Island hopper Resort</li>
-                                        <li>Single</li>
-                                        <li>&#36;550</li>
-                                        <li>&#36;450</li>
-                                    </ul>
-                                    <ul class="clearfix">
-                                        <li>Summer lake Family Hotel</li>
-                                        <li>Double</li>
-                                        <li>&#36;449</li>
-                                        <li>&#36;399</li>
-                                    </ul>
-                                </div>
-                                <div class="accommodation animated fadeInUpShort clearfix">
-                                    <ul class="clearfix">
-                                        <li><strong>Economy Accomodation</strong> <span class="circle-icon"></span></li>
-                                        <li><strong>type</strong><span class="circle-icon"></span></li>
-                                        <li><strong>Jan-May</strong><span class="circle-icon"></span></li>
-                                        <li><strong>June-dec</strong></li>
-                                    </ul>
-                                    <ul class="clearfix">
-                                        <li>Thai Island hopper Resort</li>
-                                        <li>Single</li>
-                                        <li>&#36;550</li>
-                                        <li>&#36;450</li>
-                                    </ul>
-                                    <ul class="clearfix">
-                                        <li>Summer lake Family Hotel</li>
-                                        <li>Double</li>
-                                        <li>&#36;449</li>
-                                        <li>&#36;399</li>
-                                    </ul>
-                                </div>
-                            </div>
+                            
                         </article>
                         <div class="related-tours clearfix">
                             <header class="header-with-nav animatedParent clearfix">
                                 <h3 class="title pull-left animated growIn slower">Related Tours</h3>
-                                <a class="pull-right animated growIn slower" href="#">SEE All Tours</a>
+                                
                             </header>
-                            <div class="row">
-                                <div class="col-md-4 col-xs-6 animatedParent">
-                                    <article class="tour-post animated fadeInLeftShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
-                                </div>
-                                <div class="col-md-4 col-xs-6 animatedParent">
-                                    <article class="tour-post animated fadeInUpShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
-                                </div>
-                                <div class="col-md-4 col-xs-6 animatedParent">
-                                    <article class="tour-post animated fadeInRightShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
-                                </div>
+                            <div class="col-md-4 col-xs-6 animatedParent">
+                                <article class="tour-post animated fadeInUpShort">
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left">RS 35000</span>
+                                        <span class="tour-price-off pull-right">Happening Now</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="joshi.html"><img src="images/joshi.jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="joshi.html">Joshio Chilmusht Kalash Festival Chitral</a> </h5>
+                                        <a class="more-details u-url" href="joshi.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
                             </div>
+                            <div class="col-md-4 col-xs-6 animatedParent">
+                                <article class="tour-post animated fadeInUpShort">
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left">Rs 3000</span>
+                                        <span class="tour-price-off pull-right">weekly</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="single-where-we-go.html"><img src="images/nathia(s).jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="nathiatour.html">Nathia Gali and Kalabagh Air base</a> </h5>
+                                        <a class="more-details u-url" href="nathiatour.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
+                            </div>
+                            <div class="col-md-4 col-xs-6 animatedParent">
+                                <article class="tour-post animated fadeInUpShort">
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left"></span>
+                                        <span class="tour-price-off pull-right">Custom Tour</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="chitral.html"><img src="images/gilgit1.jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="gilgit.html">Visiting the Amazing Gilgit Valley</a> </h5>
+                                        <a class="more-details u-url" href="gilgit.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
+                            </div>
+                            
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-4">
+                    <div class="col-md-3 col-sm-4">
                         <aside class="sidebar">
-                            <section class="search-widget animatedParent">
-                                <h5 class="hidden animated fadeInDownShort">Title</h5>
-                                <div class="search animated fadeInUpShort clearfix">
-                                    <form method="get" class="search-form" action="#">
-                                        <div>
-                                            <input type="text" placeholder="Search Category" name="s" class="search-text">
-                                            <input type="submit" class="search-submit" value="">
-                                            <i class="fa fa-search"></i>
-                                        </div>
-                                    </form>
-                                </div>
-                            </section>
-                            <section class="widget recent-post-widget animatedParent">
-                                <h5 class="widget-title animated fadeInDownShort">Recent Blog Post</h5>
-                                <article class="post blog-post-widget clearfix animated fadeInUpShort">
-                                    <figure class="blog-feature-img pull-right">
-                                        <img src="images/blog-post-widget-img.jpg" alt="Blog Image"/>
-                                    </figure>
-                                    <h6 class="title"><a href="#">the standard blog post title</a></h6>
-                                    <time datetime="2007-08-29T13:58Z"  class="post-meta"><i class="fa fa-clock-o"></i> 08 Nov @014</time>
-                                </article>
-                                <article class="post blog-post-widget clearfix animated fadeInUpShort">
-                                    <figure class="blog-feature-img pull-right">
-                                        <img src="images/blog-post-widget-img.jpg" alt="Blog Image"/>
-                                    </figure>
-                                    <h6 class="title"><a href="#">the standard blog post title</a></h6>
-                                    <time datetime="2007-08-29T13:58Z"  class="post-meta"><i class="fa fa-clock-o"></i> 08 Nov @014</time>
-                                </article>
-                                <article class="post blog-post-widget clearfix animated fadeInUpShort">
-                                    <figure class="blog-feature-img pull-right">
-                                        <img src="images/blog-post-widget-img.jpg" alt="Blog Image"/>
-                                    </figure>
-                                    <h6 class="title"><a href="#">the standard blog post title</a></h6>
-                                    <time datetime="2007-08-29T13:58Z"  class="post-meta"><i class="fa fa-clock-o"></i> 08 Nov @014</time>
-                                </article>
-                            </section>
                             <section class="widget widget-text animatedParent">
                                 <h5 class="widget-title animated fadeInDownShort">about us</h5>
-                                <p class="animated fadeInUpShort">  voluptatem accusantium doloremque laudantium, totam rem aperiam eaqu ipsa quae ab illo inventore veritatis et quasi archit ecto beatae vitae dicta sunt explicabo. </p>
+                                <p class="animated fadeInUpShort">  Our mission is to provide you with the most comprehensive and complete planning and travel services so that you can have the adventure of a lifetime that is exciting, comfortable, and worry-free. </p>
+                                <p>
+                                    We look forward to showing you the beautiful Pakistan.
+                                </p>
                             </section>
                             <section class="widget contact-widget clearfix animatedParent">
                                 <h5 class="widget-title animated fadeInDownShort">Contact us</h5>
                                 <address class="animated fadeInUpShort">
-                                    <strong> Address:</strong> 123 East West Corner Road,
-                                    Melborne-606
-                                    Australia.
+                                    <strong> Address:</strong> Old Fort Tourist Resort, Nagar Chitral, Pakistan.
                                 </address>
-                                <p class="phone-number animated fadeInUpShort"><strong>Phone:</strong>+61 0123 456 789</p>
-                                <p class="email animated fadeInUpShort"><strong>Email:</strong> info@example.com </p>
+                                <p class="phone-number animated fadeInUpShort"><strong>Phone:</strong> +92 324 5500015</p>
+                                <p class="email animated fadeInUpShort"><strong>Email:</strong> info@oldforttravels.com </p>
                                 <ul class="social-nav text-center clearfix animated fadeInUpShort">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="http://www.facebook.com/oldforttravels" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="http://www.twitter.com/oldforttravels" target="_blank"><i class="fa fa-twitter"></i></a></li>
                                 </ul>
                             </section>
                         </aside>
@@ -850,7 +649,7 @@
 
     </div><!-- .site-content -->
 
-    <footer id="colophon" class="site-footer animatedParent" role="contentinfo">
+     <footer id="colophon" class="site-footer animatedParent" role="contentinfo">
         <div class="footer-wrapper clearfix">
             <div class="container">
                 <div class="row">
@@ -858,46 +657,14 @@
                         <section class="widget widget_pages animated flipInX slower clearfix">
                             <h5 class="widget-title">Navigation</h5>
                             <ul>
-                                <li class="page_item page-item-17"><a href="#">Blog</a></li>
-                                <li class="page_item page-item-19"><a href="#">Contact</a></li>
-                                <li class="page_item page-item-7 current_page_item"><a href="#">Home</a></li>
-                                <li class="page_item page-item-32"><a href="#">Home Two</a></li>
-                                <li class="page_item page-item-12"><a href="#">Shortcodes</a></li>
-                                <li class="page_item page-item-11"><a href="#">Special Offers</a></li>
-                                <li class="page_item page-item-10"><a href="#">Tours</a></li>
-                                <li class="page_item page-item-9"><a href="#">Where we go</a></li>
+                                <li class="page_item page-item-19"><a href="contact.html">Contact</a></li>
+                                <li class="page_item page-item-7 current_page_item"><a href="index.html">Home</a></li>
+                                <li class="page_item page-item-11"><a href="special-offers.html">Special Offers</a></li>
+                                <li class="page_item page-item-9"><a href="where-we-go.html">Where we go</a></li>
                             </ul>
                         </section>
                     </div>
-                    <div class="col-sm-4">
-                        <section class="widget widget_mc4wp_widget animated flipInX slower clearfix">
-                            <h5 class="widget-title">stay in the tourism</h5>
-                            <div id="mc4wp-form-1" class="form mc4wp-form clearfix">
-                                <p>Receive monthly cool ideas, inspiring stories,
-                                    great reviews and offers.</p>
-                                <form method="post" class="clearfix">
-                                    <input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email address" required="">
-                                    <input type="submit" value="Submit">
-                                </form>
-                            </div>
-                            <!-- / MailChimp for WP Plugin -->
-                        </section>
-                    </div>
-                    <div class="col-sm-4">
-                        <section class="widget widget_recent_entries animated flipInX slower clearfix">
-                            <h5 class="widget-title">Recent Trips</h5>
-                            <ul>
-                                <li> <a href="#">Hello world!</a> </li>
-                                <li> <a href="#">Hello world!</a> </li>
-                                <li> <a href="#">Hello world!</a> </li>
-                                <li> <a href="#">Hello world!</a> </li>
-                                <li> <a href="#">Hello world!</a> </li>
-                                <li> <a href="#">Hello world!</a> </li>
-                                <li> <a href="#">Hello world!</a> </li>
-                                <li> <a href="#">Hello world!</a> </li>
-                            </ul>
-                        </section>
-                    </div>
+                
                     <div class="col-sm-4">
                         <section class="widget tour-gallery animated flipInX slower clearfix">
                             <h5 class="widget-title">Tour Gallery</h5>
@@ -912,28 +679,21 @@
                         </section>
                     </div>
                     <div class="col-sm-4">
-                        <section class="widget credit-cards-widget animated flipInX slower clearfix">
-                            <h5 class="widget-title">supported credit cards</h5>
-                            <img src="images/pyment-imgs.png" alt="Clients"/>
-                        </section>
-                    </div>
-                    <div class="col-sm-4">
                         <section class="widget contact-widget animated flipInX slower clearfix">
-                            <h5 class="widget-title">supported credit cards</h5>
+                            <h5 class="widget-title">Contact Us</h5>
                             <address>
-                                <strong> Address:</strong> 123 East West Corner Road,
-                                Melborne-606
-                                Australia.
+                                <strong> Address:</strong> Old Fort Tourist Resort, Nagar, Chitral, Pakistan
                             </address>
-                            <p class="phone-number"><strong>Phone:</strong>+61 0123 456 789</p>
-                            <p class="email"><strong>Email:</strong> info@example.com/p>
+                            <p class="phone-number"><strong>Phone:</strong> +92 324 5500015</p>
+                            <p class="email"><strong>Email:</strong>   info@oldforttravels.com</p>
                         </section>
                     </div>
                 </div>
             </div>
         </div>
         <div class="site-info text-center animated pulse">
-            <p>Copyright © 2014 - Designed by Defatch</p>
+            <p>Copyright © 2016 - OLD FORT TRAVELS</p>
+            <p>MADE BY OWSTUDIOS</p>
         </div><!-- .site-info -->
     </footer><!-- .site-footer -->
 

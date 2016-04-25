@@ -42,7 +42,7 @@
                 
                 <div class="header-user-tel pull-right">
                     <i class="fa fa-mobile-phone fa-lg"></i>
-                    <span class="tel">+92 324 5500015 &nbsp; +92 346 3231227</span>
+                     <span class="tel">+92 324 5500015 &nbsp; +92 346 3231227</span>
                 </div>
 
                 <div class="header-user-email pull-right">
@@ -66,50 +66,41 @@
                                 <a href="index.html">Home</a>
                             </li>
                             <li class="mega-menu-nav">
-                                <a href="where-we-go.html">Where to go</a>
+                                <a>Where to go</a>
                                 <ul class="mega-menu clearfix">
                                     <li class="pull-left wrap clearfix">
                                         <img class="pull-left menu-img" src="images/chitral.jpg" alt="Mega Menu Image"/>
                                         <ul class="mega-sub-menu">
-                                            <li>CHITRAL</li>
+                                            <li><a href="chitral.html">CHITRAL</a></li>
                                             <li><a href="nagar.html">Naghar fort</a></li>
                                             <li><a href="kalash.html">Kalash Valley</a></li>
                                             <li><a href="garamchashma.html">Garam Chashma</a></li>
-                                            <li><a href="all-tours.html">SEE MORE</a></li>
+                                            <li><a href="chitral.html">SEE MORE</a></li>
                                         </ul>
                                     </li>
                                     <li class="pull-left wrap clearfix">
-                                        <img class="pull-left menu-img" src="images/mega-menu-img.jpg" alt="Mega Menu Image"/>
+                                        <img class="pull-left menu-img" src="images/gilgit.jpg" alt="Mega Menu Image"/>
                                         <ul class="mega-sub-menu">
-                                            <li>Gilgit</li>
-                                            <li><a href="tropical-island.html">Tropical Island</a></li>
-                                            <li><a href="resorts.html">Resorts</a></li>
-                                            <li><a href="single-where-we-go.html">Asian Adventure</a></li>
-                                            <li><a href="all-tours.html">SEE MORE</a></li>
+                                            <li><a href="gilgit.html">GILGIT</a></li>
+                                            <li><a href="gilgit.html">Naltar Valley</a></li>
+                                            <li><a href="gilgit.html">Hunza</a></li>
+                                            <li><a href="gilgit-where-we-go.html">Sher Qilla</a></li>
+                                            <li><a href="gilgit.html">SEE MORE</a></li>
                                         </ul>
                                     </li>
                                     <li class="pull-left wrap clearfix">
-                                        <img class="pull-left menu-img" src="images/mega-menu-img.jpg" alt="Mega Menu Image"/>
+                                        <img class="pull-left menu-img" src="images/galiat.jpg" alt="Mega Menu Image"/>
                                         <ul class="mega-sub-menu">
-                                            <li>Galiat</li>
-                                            <li><a href="western-africa.html">Western Africa</a></li>
-                                            <li><a href="south-africa.html">South Africa</a></li>
-                                            <li><a href="island-hopper-east.html">Island Hopper East</a></li>
-                                            <li><a href="all-tours.html">SEE MORE</a></li>
+                                            <li><a href="galiat.html">GALIAT</a></li>
+                                            <li><a href="galiat.html">Nathia Gali</a></li>
+                                            <li><a href="galiat.html">Kala Bagh</a></li>
+                                            <li><a href="galiat.html">Abottabad</a></li>
+                                            <li><a href="galiat.html">SEE MORE</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </li>
-                            <li>
-                                <a href="#">Tours</a>
-                                <ul class="sub-menu">
-                                    <li><a href="beach-holidays.html">beach holidays</a></li>
-                                    <li><a href="city-breaks.html">City breaks</a></li>
-                                    <li><a href="tropical-island.html">Tropical Island</a></li>
-                                    <li><a href="resorts.html">Resorts</a></li>
-                                    <li><a href="single-where-we-go.html">Asian Adventure</a></li>
-                                </ul>
-                            </li>
+                           
                             <li><a href="special-offers.html">Special Offers</a></li>
                             <li> <a href="contact.html">Contact</a> </li>
                         </ul>
@@ -122,14 +113,14 @@
         <div id="tropical-banner" class=" text-center clearfix">
             <img src=" images/banner.jpg" alt="banner"/>
             <div class="container banner-contents clearfix">
-                <h2 class="template-title p-name"><strong>Garam Chashma</strong></h2>
+                <h2 class="template-title p-name"><strong>Kalash Valley</strong></h2>
             </div>
             <div class="breadcrumb-wrapper clearfix">
                 <div class="container">
                     <ol class="breadcrumb">
                         <li><a href="index.html" >Home</a></li>
-                        <li><a href="where-we-go.html" >Where To Go</a></li>
-                        <li class="active">Garam Chashma</li>
+                        <li><a href="special-offers.html" >Where to Go</a></li>
+                        <li class="active">Kalash Valley</li>
                     </ol>
                 </div>
             </div>
@@ -142,30 +133,28 @@
                 <div class="row">
                     <div class="col-lg-9 col-sm-8">
                         <header class="entry-header animatedParent clearfix">
-                            <h3 class="pull-left tour-single-title animated growIn slower">Garam Chashma</h3>
-                            
+                            <h3 class="pull-left tour-single-title animated growIn slower">Kalash Valley</h3>
+                        
                         </header>
                         <article class="tour-post-single clearfix">
                             <div class="tour-single-slider animatedParent clearfix">
                                 <div class="slier tour-single-slider-for animated fadeInUpShort">
-                                    <div class="item"><img src="images/garam1.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/garam2.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/garam3.jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/kalash1.jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/kalash2.jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/kalash3.jpg" alt="Tour Single"/></div>
                                 </div>
                                 <div class="slider tour-single-slider-nav animated fadeInUpShort">
-                                    <div class="item slick-active"><img src="images/garam1.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/garam2.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/garam3.jpg" alt="Tour Single"/></div>
+                                    <div class="item slick-active"><img src="images/kalash1(s).jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/kalash2(s).jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/kalash3(s).jpg" alt="Tour Single"/></div>
                                 </div>
                             </div>
                             <div class="tour-single-contents animatedParent clearfix">
-                                <div class="tour-post-meta pull-right animated fadeInUpShort clearfix">
-                                    <span><i class="fa fa-map-marker"></i><strong>Destination : &nbsp;</strong>Europe</span>
-                                    <span><i class="fa fa-clock-o"></i><strong>Duration : &nbsp;</strong>7 days</span>
-                                    <span><i class="fa fa-tags"></i><strong>Price : &nbsp;</strong>&#36;947</span>
-                                </div>
-                                <p> Maecenas faucibus mollis interdum. Nulla vitae elit libero, a petra augue. Integer posua ereta ante venenatis dapibus posu vre velit aliquet. Aenean eu leo quam. Pellentesque ornadsgxare semetrt mo  lacinia quam venenatis vestibulum. Nulla vitae elit liberero, avelitu pharetra aug ue. Etiamums porta sem malesuada magna mollis euismod.</p>
-                                <p> Maecenas faucibus mollis interdum. Nulla vitae elit libero, a petra augue. Integer posua ereta ante venenatis dapibus posu vre velit aliquet. Aenean eu leo quam. Pellentesque ornadsgxare semetrt mo  lacinia quam venenatis vestibulum. Nulla vitae elit liberero, avelitu pharetra aug ue. Etiamums porta sem malesuada magna mollis euismod.</p>
+                                <p>The Kalash or the Kalasha are the only pagan minority residing in the Chitral district of the province of Khyber Pakhtunkhua. They form the smallest minority community in the Islamic Republic of Pakistan. Though the people of Kalash were once in a large number, around 200,000, the number has dwindled so much so that only a handful of Kalashas remain— about 3000 to 4000. The striking decrease in the population of Kalashas pertains to the forceful conversion of these pagans to Islam. Even in the current day scenario, smallest pagan minority is hardly given any rights and is not recognized as a separate entity. Only a handful of foreign NGOs are working towards the development and progress of this area and tribe.
+ 
+The Kalashas live in three valleys of Chitral namely, Rumbur, Brumbret and Birir. The Rumbur and Brumbret form a single culture due to their very similar cultural practices, while Birir being the most traditional one forms a separate culture.</p>
+                                <p> The Kalash Valley also satands out because of its religious practices.The numerous Gods and Goddesses have shrines and altars all over the valley where goat sacrifices are offered regularly.  Crows that are considered to be their ancestors are frequently fed with their left hand at a number of places including tombs. Moreover, the people of Kalash do not bury their dead under the ground rather their coffins are left out in the open. They believe that the soul was excited to leave the human body and reunite with the already departed souls. It is for this reason that they celebrate the funeral of a dead person by singing and dancing rather than mourning over their bodies.</p>
+                                <p> The people of Kalash have a rich culture and are very strong footed about their identity. These people stand out from the remaining tribes, cultures and communities of Pakistan due to their distinct culture, religious practices and festivals. The area known as Kalash Valley boosts serene beauty, lush green valleys and fruit farms making it an ideal tourist spot not only in terms of scenic beauty but also cultural diversity and religious spots. Despite all the pros the fact of the matter remains that nothing is being done to develop the area and to invest in its tourism industry. The Kalash valley faces discrimination on a number of fronts be it economic development or recognition as a separate religious entity. The area lacks proper infrastructure which cuts it off with the rest of the world and has resulted in the backwardness of the region</p>
                                 <footer class="tour-contents-footer clearfix">
                                     <a class="t-btn btn-red pull-right" href="#" data-toggle="modal" data-target="#booking-popup">Booking Now</a>
                                     <a class="t-btn btn-black-border pull-right" href="#" data-toggle="modal" data-target="#ask-q-popup">Ask Question</a>
@@ -476,58 +465,59 @@
                                     </div>
                                 </footer>
                             </div>
-                          
+                           
+                           
                         </article>
                         <div class="related-tours clearfix">
                             <header class="header-with-nav animatedParent clearfix">
                                 <h3 class="title pull-left animated growIn slower">Related Tours</h3>
-                                <a class="pull-right animated growIn slower" href="#">SEE All Tours</a>
+                                <a class="pull-right animated growIn slower" href="special-offers.html">SEE All Tours</a>
                             </header>
                             <div class="row">
                                 <div class="col-md-4 col-xs-6 animatedParent">
-                                    <article class="tour-post animated fadeInLeftShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
+                                    <article class="tour-post animated fadeInUpShort">
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left">Rs 3000</span>
+                                        <span class="tour-price-off pull-right">weekly</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="nathiatour.html"><img src="images/nathia(s).jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="nathiatour.html">Nathia Gali and Kalabagh Air base</a> </h5>
+                                        <a class="more-details u-url" href="nathiatour.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
                                 </div>
                                 <div class="col-md-4 col-xs-6 animatedParent">
                                     <article class="tour-post animated fadeInUpShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left"></span>
+                                        <span class="tour-price-off pull-right">Custom Tour</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="chitral.html"><img src="images/chitral1.jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="chitral.html">Visiting the beautiful Chitral</a> </h5>
+                                        <a class="more-details u-url" href="chitral.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
                                 </div>
                                 <div class="col-md-4 col-xs-6 animatedParent">
-                                    <article class="tour-post animated fadeInRightShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
+                                    <article class="tour-post animated fadeInUpShort">
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left"></span>
+                                        <span class="tour-price-off pull-right">Custom Tour</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="gilgit.html"><img src="images/gilgit1.jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="gilgit.html">Visiting the Amazing Gilgit Valley</a> </h5>
+                                        <a class="more-details u-url" href="gilgit.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
                                 </div>
                             </div>
                         </div>
@@ -546,6 +536,8 @@
                                     </form>
                                 </div>
                             </section>
+                            
+                           
                             <section class="widget widget-text animatedParent">
                                 <h5 class="widget-title animated fadeInDownShort">about us</h5>
                                 <p class="animated fadeInUpShort">  Our mission is to provide you with the most comprehensive and complete planning and travel services so that you can have the adventure of a lifetime that is exciting, comfortable, and worry-free. </p>
@@ -575,7 +567,7 @@
 
     </div><!-- .site-content -->
 
-      <footer id="colophon" class="site-footer animatedParent" role="contentinfo">
+     <footer id="colophon" class="site-footer animatedParent" role="contentinfo">
         <div class="footer-wrapper clearfix">
             <div class="container">
                 <div class="row">

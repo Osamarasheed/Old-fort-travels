@@ -356,53 +356,53 @@ Email Us: oldforttravels@gmail.com
                         <div class="related-tours clearfix">
                             <header class="header-with-nav animatedParent clearfix">
                                 <h3 class="title pull-left animated growIn slower">Related Tours</h3>
-                                <a class="pull-right animated growIn slower" href="#">SEE All Tours</a>
+                                <a class="pull-right animated growIn slower" href="special-offers.html">SEE All Tours</a>
                             </header>
                             <div class="row">
                                 <div class="col-md-4 col-xs-6 animatedParent">
-                                    <article class="tour-post animated fadeInLeftShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
+                                    <article class="tour-post animated fadeInUpShort">
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left"></span>
+                                        <span class="tour-price-off pull-right">Custom Tour</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="chitral.html"><img src="images/chitral1.jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="chitral.html">Visiting the beautiful Chitral</a> </h5>
+                                        <a class="more-details u-url" href="chitral.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
                                 </div>
                                 <div class="col-md-4 col-xs-6 animatedParent">
                                     <article class="tour-post animated fadeInUpShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left">Rs 3000</span>
+                                        <span class="tour-price-off pull-right">weekly</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="nathiatour.html"><img src="images/nathia(s).jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="nathiatour.html">Nathia Gali and Kalabagh Air base</a> </h5>
+                                        <a class="more-details u-url" href="nathiatour.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
                                 </div>
                                 <div class="col-md-4 col-xs-6 animatedParent">
-                                    <article class="tour-post animated fadeInRightShort">
-                                        <header class="tour-post-header clearfix">
-                                            <span class="tour-price pull-left">&#36;299.00</span>
-                                            <span class="tour-days pull-right"><i class="fa fa-clock-o"></i>&nbsp; 3 days</span>
-                                        </header>
-                                        <div class="tour-contents clearfix">
-                                            <figure class="tour-feature-img">
-                                                <img src="images/tour-carousel-img.jpg" alt="Image"/>
-                                            </figure>
-                                            <h5 class="entry-title p-name">Thai island hopper east</h5>
-                                            <a class="more-details u-url" href="#">See tour details <i class="dashicons dashicons-arrow-right-alt2"></i></a>
-                                        </div>
-                                    </article>
+                                    <article class="tour-post animated fadeInUpShort">
+                                    <header class="tour-post-header clearfix">
+                                        <span class="tour-price pull-left"></span>
+                                        <span class="tour-price-off pull-right">Custom Tour</span>
+                                    </header>
+                                    <div class="tour-contents clearfix">
+                                        <figure class="tour-feature-img">
+                                            <a href="gilgit.html"><img src="images/gilgit1.jpg" alt="Image"/></a>
+                                        </figure>
+                                        <h5 class="entry-title p-name"><a href="gilgit.html">Visiting the Amazing Gilgit Valley</a> </h5>
+                                        <a class="more-details u-url" href="gilgit.html">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                    </div>
+                                </article>
                                 </div>
                             </div>
                         </div>
