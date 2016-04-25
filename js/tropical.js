@@ -307,11 +307,10 @@
      * ....................................................................................*/
 
     if($("#location-map").length > 0){
-
         $(window).on("load", function(){
             var mapOptions = {
-                center: { lat: -33.8818464, lng: 151.205348},
-                zoom: 18
+                center: { lat: 35.579162, lng: 71.809160},
+                zoom: 12
             };
             var map = new google.maps.Map(document.getElementById('location-map'),  mapOptions);
         });
