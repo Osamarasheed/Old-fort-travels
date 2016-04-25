@@ -1,4 +1,114 @@
-    <?php include('header.php'); ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="images/fevicon.png" />
+
+    <title>OLD FORT TRAVELS</title>
+
+    <!-- Font Styles -->
+    <link href='http://fonts.googleapis.com/css?family=Fira+Sans:400,500,700,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+
+    <!--Stylesheets -->
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/owl.carousel.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/select2.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/slick.css" type="text/css" media="all">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" media="all">
+    <link rel="stylesheet" href="css/datepicker.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/fullcalendar.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/slicknav.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/main.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/responsive.css" type="text/css" media="all">
+
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="css/animations-ie-fix.css" type="text/css" media="all">
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+<div id="page" class="hfeed site">
+    <header id="masthead" class="site-header" role="banner">
+        <div class="site-header-head clearfix">
+            <div class="container header-user h-card">
+                
+                <div class="header-user-tel pull-right">
+                    <i class="fa fa-mobile-phone fa-lg"></i>
+                     <span class="tel">+92 324 5500015 &nbsp; +92 346 3231227</span>
+                </div>
+
+                <div class="header-user-email pull-right">
+                    <i class="fa fa-envelope-o"></i>
+                    <a class="u-url" href="mailto:info@oldforttravels.com" >INFO@OLDFORTTRAVELS.COM</a>
+                </div>
+            </div>
+        </div>
+        <div class="site-branding">
+            <div class="container">
+                <h1 class="site-title pull-left">
+                    <a href="index.html" rel="home">
+                        <img src="images/logo2.png" alt="OLD FORT TRAVEL LOGO"/>
+                    </a>
+                </h1>
+                
+                <nav class="main-nav pull-right" role="navigation">
+                    <div class="menu-primary-menu-container">
+                        <ul id="menu-primary-menu" class="main-menu">
+                            <li>
+                                <a href="index.html">Home</a>
+                            </li>
+                            <li class="mega-menu-nav">
+                                <a>Where to go</a>
+                                <ul class="mega-menu clearfix">
+                                    <li class="pull-left wrap clearfix">
+                                        <img class="pull-left menu-img" src="images/chitral.jpg" alt="Mega Menu Image"/>
+                                        <ul class="mega-sub-menu">
+                                            <li><a href="chitral.html">CHITRAL</a></li>
+                                            <li><a href="nagar.html">Naghar fort</a></li>
+                                            <li><a href="kalash.html">Kalash Valley</a></li>
+                                            <li><a href="garamchashma.html">Garam Chashma</a></li>
+                                            <li><a href="chitral.html">SEE MORE</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="pull-left wrap clearfix">
+                                        <img class="pull-left menu-img" src="images/gilgit.jpg" alt="Mega Menu Image"/>
+                                        <ul class="mega-sub-menu">
+                                            <li><a href="gilgit.html">GILGIT</a></li>
+                                            <li><a href="gilgit.html">Naltar Valley</a></li>
+                                            <li><a href="gilgit.html">Hunza</a></li>
+                                            <li><a href="gilgit-where-we-go.html">Sher Qilla</a></li>
+                                            <li><a href="gilgit.html">SEE MORE</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="pull-left wrap clearfix">
+                                        <img class="pull-left menu-img" src="images/galiat.jpg" alt="Mega Menu Image"/>
+                                        <ul class="mega-sub-menu">
+                                            <li><a href="galiat.html">GALIAT</a></li>
+                                            <li><a href="galiat.html">Nathia Gali</a></li>
+                                            <li><a href="galiat.html">Kala Bagh</a></li>
+                                            <li><a href="galiat.html">Abottabad</a></li>
+                                            <li><a href="galiat.html">SEE MORE</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                           
+                            <li><a href="special-offers.html">Special Offers</a></li>
+                            <li> <a href="contact.html">Contact</a> </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div><!-- .container -->
+        </div><!-- .site-branding -->
+    </header><!-- .site-header -->
     <div id="content" class="site-content">
         <div id="tropical-banner" class=" text-center clearfix">
             <img src=" images/banner.jpg" alt="banner"/>
@@ -8,8 +118,8 @@
             <div class="breadcrumb-wrapper clearfix">
                 <div class="container">
                     <ol class="breadcrumb">
-                        <li><a href="index.php" >Home</a></li>
-                        <li><a href="special-offers.php" >Where to Go</a></li>
+                        <li><a href="index.html" >Home</a></li>
+                        <li><a href="special-offers.html" >Where to Go</a></li>
                         <li class="active">Kalash Valley</li>
                     </ol>
                 </div>
@@ -34,9 +144,9 @@
                                     <div class="item"><img src="images/kalash3.jpg" alt="Tour Single"/></div>
                                 </div>
                                 <div class="slider tour-single-slider-nav animated fadeInUpShort">
-                                    <div class="item slick-active"><img src="images/kalash1.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/kalash2.jpg" alt="Tour Single"/></div>
-                                    <div class="item"><img src="images/kalash3.jpg" alt="Tour Single"/></div>
+                                    <div class="item slick-active"><img src="images/kalash1(s).jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/kalash2(s).jpg" alt="Tour Single"/></div>
+                                    <div class="item"><img src="images/kalash3(s).jpg" alt="Tour Single"/></div>
                                 </div>
                             </div>
                             <div class="tour-single-contents animatedParent clearfix">
@@ -45,7 +155,315 @@
 The Kalashas live in three valleys of Chitral namely, Rumbur, Brumbret and Birir. The Rumbur and Brumbret form a single culture due to their very similar cultural practices, while Birir being the most traditional one forms a separate culture.</p>
                                 <p> The Kalash Valley also satands out because of its religious practices.The numerous Gods and Goddesses have shrines and altars all over the valley where goat sacrifices are offered regularly.  Crows that are considered to be their ancestors are frequently fed with their left hand at a number of places including tombs. Moreover, the people of Kalash do not bury their dead under the ground rather their coffins are left out in the open. They believe that the soul was excited to leave the human body and reunite with the already departed souls. It is for this reason that they celebrate the funeral of a dead person by singing and dancing rather than mourning over their bodies.</p>
                                 <p> The people of Kalash have a rich culture and are very strong footed about their identity. These people stand out from the remaining tribes, cultures and communities of Pakistan due to their distinct culture, religious practices and festivals. The area known as Kalash Valley boosts serene beauty, lush green valleys and fruit farms making it an ideal tourist spot not only in terms of scenic beauty but also cultural diversity and religious spots. Despite all the pros the fact of the matter remains that nothing is being done to develop the area and to invest in its tourism industry. The Kalash valley faces discrimination on a number of fronts be it economic development or recognition as a separate religious entity. The area lacks proper infrastructure which cuts it off with the rest of the world and has resulted in the backwardness of the region</p>
-                                <?php include('booking-form-modal.php'); ?>
+                                <footer class="tour-contents-footer clearfix">
+                                    <a class="t-btn btn-red pull-right" href="#" data-toggle="modal" data-target="#booking-popup">Booking Now</a>
+                                    <a class="t-btn btn-black-border pull-right" href="#" data-toggle="modal" data-target="#ask-q-popup">Ask Question</a>
+                                    <div class="modal fade" id="booking-popup" tabindex="-1" role="dialog" aria-labelledby="booking-popup" aria-hidden="true">
+                                        <div class="modal-dialog">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                            <div class="booking-tabs" role="tabpanel">
+
+                                                <!-- Nav tabs -->
+                                                <ul class="nav nav-tabs" role="tablist">
+                                                    <li role="presentation">
+                                                        <a href="#tab-hotel3" aria-controls="tab-hotel3" role="tab" data-toggle="tab"><i class="fa fa-calendar"></i></a>
+                                                    </li>
+                                                    <li role="presentation">
+                                                        <a href="#tab-train3" aria-controls="tab-train3" role="tab" data-toggle="tab"><i class="fa fa-bus"></i></a>
+                                                    </li>
+                                                    <li role="presentation">
+                                                        <a href="#tab-flight3" aria-controls="tab-flight3" role="tab" data-toggle="tab"><i class="fa fa-plane"></i></a>
+                                                    </li>
+                                                    <li role="presentation" class="active">
+                                                        <a href="#tab-booking3" aria-controls="tab-booking3" role="tab" data-toggle="tab"><i class="fa fa-building-o"></i></a>
+                                                    </li>
+                                                </ul>
+
+                                                <!-- Tab panes -->
+                                                <div class="tab-content">
+                                                    <div role="tabpanel" class="tab-pane" id="tab-hotel3">
+                                                        <div class="booking-criteria">
+                                                            <h4>Book hotel</h4>
+                                                            <ul>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No.1 for booking in our surroundings</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No hidden costs</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> Attractive offers with price advantage</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="bookingform">
+                                                            <form action="#">
+                                                                <fieldset>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>Destination</label>
+                                                                        <input type="text" class="form-control" placeholder="Enter place / regions">
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>Arrival</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>Departure Date</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                </fieldset>
+                                                                <div class="field-separator clearfix">
+                                                                    <label for="rooms">Rooms</label>
+                                                                    <select class="form-control" id="rooms">
+                                                                        <option>1 room</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+
+                                                                </div>
+                                                                <div class="field-separator clearfix">
+                                                                    <label for="adults-2">Adults</label>
+                                                                    <select class="form-control" id="adults-2" >
+                                                                        <option>3 adults</option>
+                                                                        <option>3 adults</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+
+                                                                </div>
+                                                                <div class="field-separator clearfix">
+                                                                    <label for="children-2">Childrens</label>
+                                                                    <select class="form-control" id="children-2">
+                                                                        <option>5 childrens</option>
+                                                                        <option>5 childrens</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+                                                                </div>
+                                                                <div class="clearfix">
+                                                                    <input type="submit" value="Find Hotel" class="t-btn btn-red">
+                                                                </div>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                    <div role="tabpanel" class="tab-pane" id="tab-train3">
+                                                        <div class="booking-criteria">
+                                                            <h4>Book hotel</h4>
+                                                            <ul>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No.1 for booking in our surroundings</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No hidden costs</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> Attractive offers with price advantage</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="bookingform">
+                                                            <form action="#">
+                                                                <fieldset>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>From</label>
+                                                                        <input type="text" class="form-control" placeholder="Enter place / regions">
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>To</label>
+                                                                        <input type="text" class="form-control" placeholder="Enter place / regions">
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>OutBound</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>InBound</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                </fieldset>
+                                                                <div class="field-separator clearfix">
+                                                                    <label for="adults-1">Adults</label>
+                                                                    <select class="form-control" id="adults-1" >
+                                                                        <option>3 adults</option>
+                                                                        <option>3 adults</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+
+                                                                </div>
+                                                                <div class="field-separator clearfix">
+                                                                    <label for="children-1">Childrens</label>
+                                                                    <select class="form-control" id="children-1">
+                                                                        <option>5 childrens</option>
+                                                                        <option>5 childrens</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+                                                                </div>
+                                                                <div class="clearfix">
+                                                                    <input type="submit" value="Search Train" class="t-btn btn-red">
+                                                                </div>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                    <div role="tabpanel" class="tab-pane" id="tab-flight3">
+                                                        <div class="booking-criteria">
+                                                            <h4>Book hotel</h4>
+                                                            <ul>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No.1 for booking in our surroundings</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No hidden costs</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> Attractive offers with price advantage</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="bookingform">
+                                                            <form action="#">
+                                                                <fieldset>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>From</label>
+                                                                        <input type="text" class="form-control" placeholder="Enter place / regions">
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>To</label>
+                                                                        <input type="text" class="form-control" placeholder="Enter place / regions">
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>OutBound</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>InBound</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                </fieldset>
+                                                                <div class="field-separator clearfix">
+                                                                    <label for="adults-3">Adults</label>
+                                                                    <select class="form-control" id="adults-3" >
+                                                                        <option>3 adults</option>
+                                                                        <option>3 adults</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+
+                                                                </div>
+                                                                <div class="field-separator clearfix">
+                                                                    <label for="children-3">Childrens</label>
+                                                                    <select class="form-control" id="children-3">
+                                                                        <option>5 childrens</option>
+                                                                        <option>5 childrens</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+                                                                </div>
+                                                                <div class="clearfix">
+                                                                    <input type="submit" value="Search Flight" class="t-btn btn-red">
+                                                                </div>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                    <div role="tabpanel" class="tab-pane active" id="tab-booking3">
+                                                        <div class="booking-criteria">
+                                                            <h4>tour Book</h4>
+                                                            <ul>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No.1 for booking in our surroundings</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> No hidden costs</li>
+                                                                <li><i class="glyphicon glyphicon-ok"></i> Attractive offers with price advantage</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="bookingform">
+                                                            <form action="#">
+                                                                <fieldset>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>Destination</label>
+                                                                        <input type="text" class="form-control" placeholder="Enter place / regions">
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>Check in</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="field-separator clearfix">
+                                                                        <label>Check out</label>
+                                                                        <div class="input-group input-append date date-picker" >
+                                                                            <input type="text" class="form-control" name="date">
+                                                                            <span class="input-group-addon add-on"><i class="fa fa-calendar"></i></span>
+                                                                        </div>
+                                                                    </div>
+                                                                </fieldset>
+                                                                <div class="field-separator clearfix">
+                                                                    <label>Name <span>*</span></label>
+                                                                    <input type="text" class="form-control" >
+                                                                </div>
+                                                                <div class="field-separator clearfix">
+                                                                    <label>Email <span>*</span></label>
+                                                                    <input type="text" class="form-control" >
+                                                                </div>
+                                                                <div class="field-separator field-inline clearfix">
+                                                                    <select class="form-control" id="adults" >
+                                                                        <option>adults</option>
+                                                                        <option>3 adults</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+                                                                    <select class="form-control" id="children">
+                                                                        <option>childrens</option>
+                                                                        <option>5 childrens</option>
+                                                                        <option>Your destination</option>
+                                                                        <option>Your destination</option>
+                                                                    </select>
+                                                                </div>
+                                                                <div class="clearfix">
+                                                                    <input type="submit" value="Book Now" class="t-btn btn-red">
+                                                                </div>
+                                                            </form>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="modal fade" id="ask-q-popup" tabindex="-1" role="dialog" aria-labelledby="ask-q-popup" aria-hidden="true">
+                                        <div class="modal-dialog">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                            <div class="booking-criteria">
+                                                <h4>Ask Question <i class="fa fa-question-circle"></i></h4>
+                                                <ul>
+                                                    <li><i class="glyphicon glyphicon-ok"></i> No.1 for booking in our surroundings</li>
+                                                    <li><i class="glyphicon glyphicon-ok"></i> No hidden costs</li>
+                                                    <li><i class="glyphicon glyphicon-ok"></i> Attractive offers with price advantage</li>
+                                                </ul>
+                                            </div>
+                                            <div class="question-form clearfix">
+                                                <form action="#">
+                                                    <div class="field-separator clearfix">
+                                                        <label for="q-name">Name</label>
+                                                        <input type="text" class="form-control" id="q-name" name="qname">
+                                                    </div>
+                                                    <div class="field-separator clearfix">
+                                                        <label for="q-email">Email address</label>
+                                                        <input type="text" class="form-control" name="qemail" id="q-email">
+                                                    </div>
+                                                    <div class="field-separator clearfix">
+                                                        <label for="q-question">Question</label>
+                                                        <textarea name="question" id="q-question" cols="30" rows="3"></textarea>
+                                                    </div>
+                                                    <div class="clearfix">
+                                                        <input type="submit" value="SUBMIT" class="t-btn btn-red">
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </footer>
                             </div>
                            
                            
@@ -53,7 +471,7 @@ The Kalashas live in three valleys of Chitral namely, Rumbur, Brumbret and Birir
                         <div class="related-tours clearfix">
                             <header class="header-with-nav animatedParent clearfix">
                                 <h3 class="title pull-left animated growIn slower">Related Tours</h3>
-                                <a class="pull-right animated growIn slower" href="special-offers.php">SEE All Tours</a>
+                                <a class="pull-right animated growIn slower" href="special-offers.html">SEE All Tours</a>
                             </header>
                             <div class="row">
                                 <div class="col-md-4 col-xs-6 animatedParent">
@@ -64,10 +482,10 @@ The Kalashas live in three valleys of Chitral namely, Rumbur, Brumbret and Birir
                                     </header>
                                     <div class="tour-contents clearfix">
                                         <figure class="tour-feature-img">
-                                            <a href="nathiatour.php"><img src="images/nathia(s).jpg" alt="Image"/></a>
+                                            <a href="nathiatour.html"><img src="images/nathia(s).jpg" alt="Image"/></a>
                                         </figure>
-                                        <h5 class="entry-title p-name"><a href="nathiatour.php">Nathia Gali and Kalabagh Air base</a> </h5>
-                                        <a class="more-details u-url" href="nathiatour.php">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                        <h5 class="entry-title p-name"><a href="nathiatour.html">Nathia Gali and Kalabagh Air base</a> </h5>
+                                        <a class="more-details u-url" href="nathiatour.html">See tour details <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </article>
                                 </div>
@@ -79,10 +497,10 @@ The Kalashas live in three valleys of Chitral namely, Rumbur, Brumbret and Birir
                                     </header>
                                     <div class="tour-contents clearfix">
                                         <figure class="tour-feature-img">
-                                            <a href="chitral.php"><img src="images/chitral1.jpg" alt="Image"/></a>
+                                            <a href="chitral.html"><img src="images/chitral1.jpg" alt="Image"/></a>
                                         </figure>
-                                        <h5 class="entry-title p-name"><a href="chitral.php">Visiting the beautiful Chitral</a> </h5>
-                                        <a class="more-details u-url" href="chitral.php">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                        <h5 class="entry-title p-name"><a href="chitral.html">Visiting the beautiful Chitral</a> </h5>
+                                        <a class="more-details u-url" href="chitral.html">See tour details <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </article>
                                 </div>
@@ -94,10 +512,10 @@ The Kalashas live in three valleys of Chitral namely, Rumbur, Brumbret and Birir
                                     </header>
                                     <div class="tour-contents clearfix">
                                         <figure class="tour-feature-img">
-                                            <a href="gilgit.php"><img src="images/gilgit1.jpg" alt="Image"/></a>
+                                            <a href="gilgit.html"><img src="images/gilgit1.jpg" alt="Image"/></a>
                                         </figure>
-                                        <h5 class="entry-title p-name"><a href="gilgit.php">Visiting the Amazing Gilgit Valley</a> </h5>
-                                        <a class="more-details u-url" href="gilgit.php">See tour details <i class="fa fa-angle-double-right"></i></a>
+                                        <h5 class="entry-title p-name"><a href="gilgit.html">Visiting the Amazing Gilgit Valley</a> </h5>
+                                        <a class="more-details u-url" href="gilgit.html">See tour details <i class="fa fa-angle-double-right"></i></a>
                                     </div>
                                 </article>
                                 </div>
@@ -149,4 +567,71 @@ The Kalashas live in three valleys of Chitral namely, Rumbur, Brumbret and Birir
 
     </div><!-- .site-content -->
 
-   <?php include('footer.php');?>
+     <footer id="colophon" class="site-footer animatedParent" role="contentinfo">
+        <div class="footer-wrapper clearfix">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <section class="widget widget_pages animated flipInX slower clearfix">
+                            <h5 class="widget-title">Navigation</h5>
+                            <ul>
+                                <li class="page_item page-item-19"><a href="contact.html">Contact</a></li>
+                                <li class="page_item page-item-7 current_page_item"><a href="index.html">Home</a></li>
+                                <li class="page_item page-item-11"><a href="special-offers.html">Special Offers</a></li>
+                                <li class="page_item page-item-9"><a href="where-we-go.html">Where we go</a></li>
+                            </ul>
+                        </section>
+                    </div>
+                
+                    <div class="col-sm-4">
+                        <section class="widget tour-gallery animated flipInX slower clearfix">
+                            <h5 class="widget-title">Tour Gallery</h5>
+                            <ul>
+                                <li> <a href="#"><img src="images/tour-gallery-img.jpg" alt="Tour"/></a></li>
+                                <li> <a href="#"><img src="images/tour-gallery-img.jpg" alt="Tour"/></a> </li>
+                                <li> <a href="#"><img src="images/tour-gallery-img.jpg" alt="Tour"/></a> </li>
+                                <li> <a href="#"><img src="images/tour-gallery-img.jpg" alt="Tour"/></a> </li>
+                                <li> <a href="#"><img src="images/tour-gallery-img.jpg" alt="Tour"/></a> </li>
+                                <li> <a href="#"><img src="images/tour-gallery-img.jpg" alt="Tour"/></a> </li>
+                            </ul>
+                        </section>
+                    </div>
+                    <div class="col-sm-4">
+                        <section class="widget contact-widget animated flipInX slower clearfix">
+                            <h5 class="widget-title">Contact Us</h5>
+                            <address>
+                                <strong> Address:</strong> Old Fort Tourist Resort, Nagar, Chitral, Pakistan
+                            </address>
+                            <p class="phone-number"><strong>Phone:</strong> +92 324 5500015</p>
+                            <p class="email"><strong>Email:</strong>   info@oldforttravels.com</p>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="site-info text-center animated pulse">
+            <p>Copyright © 2016 - OLD FORT TRAVELS</p>
+            <p>MADE BY OWSTUDIOS</p>
+        </div><!-- .site-info -->
+    </footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<script type="text/javascript" src="js/jquery-2.1.3.min.js?ver=2.1.3"></script>
+<script type="text/javascript" src="js/jquery-migrate-1.2.1.js?ver=1.2.1"></script>
+<script type="text/javascript" src="js/bootstrap.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="js/respond.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="js/owl.carousel.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="js/select2.full.min.js?ver=4.0.0"></script>
+<script type="text/javascript" src="js/slick.min.js?ver=1.5.0"></script>
+<script type="text/javascript" src="js/moment.min.js?ver=2.9.0"></script>
+<script type="text/javascript" src="js/fullcalendar.min.js?ver=2.3.1"></script>
+<script type="text/javascript" src="js/jquery.slicknav.min.js?ver=1.0.3"></script>
+<script type="text/javascript" src="js/css3-animate-it.js?ver=0.1.0"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script type="text/javascript" src="js/bootstrap-datepicker.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="js/tropical.js?ver=1.0.0"></script>
+
+</body>
+</html>
